@@ -7,7 +7,7 @@ package javaapplication1;
 
 /**
  *
- * @author HaiPham
+ * @author Huy Thong
  */
 public class TongsoJFrame extends javax.swing.JFrame {
 
