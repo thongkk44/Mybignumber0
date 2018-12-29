@@ -7,7 +7,7 @@ package javaapplication1;
 
 /**
  *
- * @author Hữu Phúc PD
+ * @author Huy Thong
  */
 class TimeRun implements IReceiver{
     public static void main(String[]args) {
