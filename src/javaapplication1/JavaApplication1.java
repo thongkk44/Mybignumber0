@@ -7,7 +7,7 @@ package javaapplication1;
 
 /**
  *
- * @author Hữu Phúc PD
+ * @author Huy Thong
  */
 public class JavaApplication1 {
 
