@@ -7,7 +7,7 @@
 
 /**
  *
- * @author Hữu Phúc PD
+ * @author Huy Thong.
  */
 interface IReceiver {
 	public void send(String msg);
